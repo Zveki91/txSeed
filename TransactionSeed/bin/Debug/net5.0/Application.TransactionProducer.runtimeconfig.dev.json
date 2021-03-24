@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sasa.mocic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sasa.mocic\\.nuget\\packages"
+    ]
+  }
+}

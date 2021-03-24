@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGd9yZEse39ROJjMhXqgJ2TEVLkaSBYZLoVJh5hMZtOV0SSkPSPVW5Xb1Rf/AkTxDl4czsbQ3CZV8gdnOJYP4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasa.mocic\\RiderProjects\\TransactionSeed\\TransactionSeed\\TransactionSeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasa.mocic\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\sasa.mocic\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\sasa.mocic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
